@@ -11,7 +11,7 @@ urlpatterns = [
     
     path('', include(router.urls)),
     path('admin/', admin.site.urls),
-    path('followers/', include('followers.urls')),
+    path('api-auth/', include('followers.urls')),
     path ('api-auth/',  include ('rest_framework.urls')),
     path('api-auth/registration/', CreateUserView.as_view()), 
 ]
