@@ -14,4 +14,4 @@ API em que um usuário realiza um cadastro, publica Posts e ver as publicações
 - `Django REST Framework`
 
 ## :file_folder: Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](#https://github.com/freitasvalkyria/b2bit-projeto/tree/main/api).
+Você pode acessar o código fonte do projeto inicial: https://github.com/freitasvalkyria/b2bit-projeto/tree/main/api
